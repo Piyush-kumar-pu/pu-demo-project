@@ -1,4 +1,4 @@
 # pu-demo-project
 This is my first Git  Repository.
 <br>
-Author- Piyush kumar
+Author- Piyush kumar(pu)
